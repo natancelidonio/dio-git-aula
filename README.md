@@ -1,4 +1,5 @@
-Descrição inserida no repositório remoto antes do clone.
+#Repositório Local
+Descrição inserida no repositório local, depois do clone.
 # DIO | Resumos Git e GitHub
 
 Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innocation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/coding-future-gft-desenvolvimento-java-com-ia&tab=undefined&moduleId=undefined)  
